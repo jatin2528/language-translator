@@ -41,7 +41,7 @@ body {
   background-color: var(--bg-color);
 }
 
-body.dark {
+.dark {
   --bg-color: #878683;
   --light-bg-color: #444444;
   --text-color: #fff;
